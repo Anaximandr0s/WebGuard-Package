@@ -1,0 +1,9 @@
+rule_id,rule_name,target_type,content
+1,Source IP Rule,sourceIp,192.168.1.250
+2,User-Agent Rule,User-Agent,"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0"
+3,Path Rule,Path,/admin
+4,Country Rule,country,US
+5,Method Rule,Method,POST
+6,Body Rule,Body,malicious
+7,Header Rule,Header,Custom-Header
+8,Host Rule,Host,example.com

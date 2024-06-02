@@ -1,0 +1,7 @@
+Analyse_id,Analyse_Name,Analyse_Type,Analyse_Descr
+1,Block Black List IPs,Blacklist,Analyse to block requests from blacklisted IPs
+2,SQL Injection Analyse,SQLI,Analyse to detect and block SQL injection attempts
+3,XSS Analyse,XSS,Analyse to detect and block XSS attacks
+4,Request Size Limitation,Size,Analyse to limit the size of incoming requests
+5,Referrer Header Validation,Ref,Analyse to validate the referrer header of incoming requests
+6,Artificielle Intelligence,AI,Detect Malicious Requests with AI
