@@ -7,10 +7,7 @@
             "name": "Mohamed Doukkani"
         }
     ],
-    "require": {
-        "illuminate/http": "^8.0",
-        "illuminate/support": "^8.0"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "MohamedDoukkani\\WebGuard\\": "src/"
